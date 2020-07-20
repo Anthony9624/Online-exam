@@ -37,7 +37,7 @@ timer = window.setInterval("currentTime();CountDown();",1000);
          seconds = Math.floor(maxtime % 60);
          msg =minutes + "分" + seconds + "秒";
          document.all["timer"].innerHTML = msg;
-         if (maxtime == 10)alert("距离结束仅剩15秒");
+         if (maxtime == 25)alert("距离结束仅剩30秒");
            --maxtime;
        } else{
          clearInterval(timer);
