@@ -31,7 +31,7 @@ CREATE TABLE `tb_lesson` (
 -- Records of tb_lesson
 -- ----------------------------
 INSERT INTO `tb_lesson` VALUES ('4', '数学', '2020-06-20 09:42:22', '计算机科学与技术');
-INSERT INTO `tb_lesson` VALUES ('5', '语文', '2020-06-20 09:42:40', '计算机科学与技术');
+INSERT INTO `tb_lesson` VALUES ('5', '语文', '2020-06-20 09:42:40', '古代汉语言文学');
 INSERT INTO `tb_lesson` VALUES ('6', 'jsp课程设计', '2020-06-20 09:43:12', '计算机科学与技术');
 INSERT INTO `tb_lesson` VALUES ('7', '电机控制', '2020-06-20 09:44:32', '自动化');
 INSERT INTO `tb_lesson` VALUES ('8', '过程计算机控制系统', '2020-06-20 09:48:15', '自动化');
