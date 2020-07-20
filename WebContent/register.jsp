@@ -104,7 +104,7 @@ function check(){
 	    <tr align="center">
 		     <td width="16%" height="30" align="left" style="padding:5px;">问题答案：</td>
 		     <td width="84%" align="left">
-		     	<input type="text" name="answer" size=40/> （如7月17日）*
+		     	<input type="text" name="answer" size=40/> （如3月17日）*
 		     </td>
     	</tr>
 	    <tr align="center">
